@@ -1,0 +1,15 @@
+.item-box {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: space-between;
+}
+
+.title {
+	
+}
+
+.author {
+	margin-left: 25vw;
+}
